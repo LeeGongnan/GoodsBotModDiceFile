@@ -1,1 +1,0 @@
-	128	[CQ:image,url=https://api.emoao.com/api/moyu]
