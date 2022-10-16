@@ -1,5 +1,7 @@
 # IreneDiceFile
 
+本仓库内容替换mod文件夹
+
 代码具体逻辑位于mod/Get_Goods下
 
 dice！开发手册：https://v2docs.kokona.tech/zh/latest/Develop_Manual.html#mod
@@ -7,16 +9,16 @@ dice！开发手册：https://v2docs.kokona.tech/zh/latest/Develop_Manual.html#m
 dice！论坛：https://forum.kokona.tech/
 
 ### 开发计划：
+0. 接入bangdream群开发抽捆功能（已完成）
 1. 接转单逻辑（已完成）
 2. txt手速表自动转为excel肾表（进行中）
 3. 将cn-qq号对应文件存到本地，而不是写到脚本里（未开始）
-4. 查询明日方舟干员精二/专三材料（已完成）
-5. 定时催肾（未开始）
-6. txt手速表自动转为excel排表（未开始）
-7. 根据排表自动更新余量（未开始）
-8. 定时推送余量图（未开始）
-9. html自动制作余量图（未开始）
-10. 根据群不同而自动区分背包（未开始）
+4. 定时催肾（未开始）
+5. txt手速表自动转为excel排表（未开始）
+6. 根据排表自动更新余量（未开始）
+7. 定时推送余量图（未开始）
+8. html自动制作余量图（未开始）
+9. 根据群不同而自动区分背包（未开始）
 
 ### 已知问题：
 1. 转单/撤排也会被读取到排表里。目前没有想到较好的关键词识别方式
