@@ -1,0 +1,3 @@
+reply_new: "已新建名为{inv}的本地文档√"
+reply_bind_payment_code: "已成功绑定拍卖肾码为{pay_name}咪"
+reply_auction_collect_money: "请立肾，肾完小窗截图给{pay_name}咪"

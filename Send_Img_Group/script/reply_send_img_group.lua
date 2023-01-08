@@ -28,7 +28,7 @@ do
 
         sendMsg(remaining_image, group_num, nil)
         local time_random = math.random(1060000)
-        sleepTime(36000000+time_random)
+        sleepTime(3600000+time_random)
     end
     local file1=io.input("local_flag.txt")
     send_flag = io.read("*a")
